@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BIODATA</string>
+    <string name="name">Sifa Sumayah</string>
+    <string name="ttl">Purbalingga,13 Mei 2004</string>
+    <string name="agama">Islam</string>
+    <string name="noHp">083837025568</string>
+    <string name="email">sifapbg36@gmail.com</string>
+    <string name="alamat">Sumingkir RT 07 RW 03,Kutasari,Purbalingga</string>
+</resources>
